@@ -3,6 +3,7 @@ config.py
 # Add additional files to be excluded
 API_practice.ipynb
 random_numbers.ipynb
+gmaps_install.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
